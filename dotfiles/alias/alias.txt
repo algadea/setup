@@ -1,0 +1,26 @@
+##### GIT #####
+alias gcl='git clone'
+alias gitacp='git add . && git commit -m "update files" && git push origin'
+alias gitac='git add . && git commit -m'
+
+##### COMPILER #####
+alias ccw='cc -Wall -Wextra -Werror'
+alias gccw='gcc -Wall -Wextra -Werror'
+alias clangw='clang -Wall -Wextra -Werror'
+
+##### VALGRIND #####
+alias vlgrnd='valgrind --leak-check=full --track-origins=yes'
+
+##### TEMPLATE #####
+alias get_template_build='cp -r $HOME/Template/Build/* .'
+alias get_template_build_makefile='cp $HOME/Template/Build/Makefile .'
+alias get_template_installation='cp -r $HOME/Template/Installation/* .'
+
+##### APT #####
+alias aptudg='sudo apt update && sudo apt upgrade'
+alias aptud='sudo apt update'
+alias aptug='sudo apt upgrade'
+
+##### PACMAN #####
+
+##### DNF ######

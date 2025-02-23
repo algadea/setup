@@ -1,0 +1,10 @@
+{
+	"workbench.colorTheme": "Tokyo Night Storm",
+    "settingsSync.ignoredSettings": [
+        "-window.zoomLevel"
+    ],
+    "editor.minimap.enabled": false,
+    "files.autoSave": "afterDelay",
+    "github.copilot.editor.enableAutoCompletions": false,
+    "window.zoomLevel": -1
+}
