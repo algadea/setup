@@ -81,13 +81,13 @@ This is the complete list of dotfiles and config that are used in this script.
   file stored in **dotfiles/directory**.
   - this dir.conf
   ```
-  $HOME/Dev/42/42API: git@github.com:algadea/42API.git
-  $HOME/Dev/42/Common-Core: git@github.com:algadea/Common-core.git
-  $HOME/Dev/Github/algadea: git@github.com:algadea/algadea.git
-  $HOME/Dev/Project/AdventOfCode: git@github.com:algadea/AdventOfCode.git
-  $HOME/Dev/Project/Exercism: git@github.com:algadea/Exercism.git
-  $HOME/Dev/Project/Portfolio: git@github.com:algadea/Portfolio.git
-  $HOME/Dev/Template: git@github.com:algadea/Template.git
+  $HOME/Dev/42/42API  git@github.com:algadea/42API.git
+  $HOME/Dev/42/Common-Core git@github.com:algadea/Common-core.git
+  $HOME/Dev/Github/algadea git@github.com:algadea/algadea.git
+  $HOME/Dev/Project/AdventOfCode git@github.com:algadea/AdventOfCode.git
+  $HOME/Dev/Project/Exercism git@github.com:algadea/Exercism.git
+  $HOME/Dev/Project/Portfolio git@github.com:algadea/Portfolio.git
+  $HOME/Dev/Template git@github.com:algadea/Template.git
   ```
   - should give
 <pre>
