@@ -17,7 +17,7 @@ This program allows you to automatically update your development ecosystem
 making your tools and directories deployment faster while switching environments 
 or computers.</br>
 
-Only available on **Linux** and **Windows**, but **BSD** and **Mac** will soon 
+Working on **Linux** and **Windows**, but **BSD** and **Mac** will soon 
 be available.
 
 ### **⚠️ Important**
